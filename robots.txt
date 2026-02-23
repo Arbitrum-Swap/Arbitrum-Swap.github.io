@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /sushiswap/
+Sitemap: https://arbitrum-swap.github.io/sitemap.xml
